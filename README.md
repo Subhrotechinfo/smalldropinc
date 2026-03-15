@@ -3,6 +3,8 @@
 A fully responsive, production-ready digital agency website built with **Vite + React + Tailwind CSS**,  as **SmallDrop Inc**
 ---
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8d9e8d5f-2e38-4ed1-a5eb-7f3b91b59456/deploy-status)](https://app.netlify.com/projects/smalldrop/deploys)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
