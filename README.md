@@ -1,7 +1,6 @@
 # SmallDrop Inc — Digital Agency Website
 
-A fully responsive, production-ready digital agency website built with **Vite + React + Tailwind CSS**,  as **SmallDrop Inc** — featuring a white-themed design with `#c3d219` accent color, custom cursor, animated typography, and a full multi-page routing system.
-
+A fully responsive, production-ready digital agency website built with **Vite + React + Tailwind CSS**,  as **SmallDrop Inc**
 ---
 
 ## 🚀 Getting Started
