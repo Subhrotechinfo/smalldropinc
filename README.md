@@ -5,8 +5,6 @@ A fully responsive, production-ready digital agency website built with **Vite + 
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8d9e8d5f-2e38-4ed1-a5eb-7f3b91b59456/deploy-status)](https://app.netlify.com/projects/smalldrop/deploys)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Subhrotechinfo&color=00d9ff&style=for-the-badge&label=PROFILE+VIEWS)
-
 ## 🚀 Getting Started
 
 ### Prerequisites
